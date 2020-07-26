@@ -1,4 +1,4 @@
-# Task №1 [DEMO](https://aleksandrlinnik1.github.io/react-test/)
+# Task №1 [DEMO](https://aleksandrlinnik1.github.io/task1/)
 # Task:
 
 Предположим, есть страница, на которой всего одно поле:
